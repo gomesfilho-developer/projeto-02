@@ -6,7 +6,7 @@
 
 Projeto desenvolvido no curso Explorer da Rocketseat, no módulo conhecendo novos conceitos de HTML e CSS.
 
-[Clique aqui para acessar](https://github.com/gomesfilho-developer/projeto-02)
+[Clique aqui para acessar](https://gomesfilho-developer.github.io/projeto-02/)
 
 ## Tecnologias
 
